@@ -19,9 +19,9 @@ Other Models for Comparison:
 - Named Entity Recognition (NER): Identifying entities like names, locations, and organizations within the text.
 
 **Contributors**
-Janani Srinivasan Anusha - CH.EN.U4AIE22018
-Priyanga Selvaperumal - CH.EN.U4AIE22039
-Veda Chatiyode - CH.EN.U4AIE22069
+* Janani Srinivasan Anusha - CH.EN.U4AIE22018
+* Priyanga Selvaperumal - CH.EN.U4AIE22039
+* Veda Chatiyode - CH.EN.U4AIE22069
 
 
 
